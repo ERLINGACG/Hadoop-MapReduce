@@ -1,0 +1,6 @@
+com\javaweb\PhoneCount.class
+com\javaweb\WordCount$IntSumReducer.class
+com\javaweb\PhoneCount$PhoneMapper.class
+com\javaweb\WordCount$TokenizerMapper.class
+com\javaweb\PhoneCount$PhoneReducer.class
+com\javaweb\WordCount.class
